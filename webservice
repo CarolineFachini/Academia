@@ -1,0 +1,23 @@
+
+Segue abaixo os links das requisições da api - academia feita em aula para avaliação do bimestre.
+
+
+<p>https://api.parse.com/1/classes/treinoaluno
+<p>https://api.parse.com/1/classes/aluno
+<p>https://api.parse.com/1/classes/dieta
+<p>https://api.parse.com/1/classes/itemdieta
+<p>https://api.parse.com/1/classes/exercicio
+<p>
+
+<p>https://api.parse.com/1/classes/itemdieta?where={"IdItemDieta": 5000}
+<p>https://api.parse.com/1/classes/treinoaluno?where={"IdTreinoAluno": 8001}
+<p>https://api.parse.com/1/classes/exercicio?where={"codexercicio": "1003"}
+<p>https://api.parse.com/1/classes/dieta?where={"IdDieta": 102}
+<p>https://api.parse.com/1/classes/aluno?where={"IdAluno": 1}
+<p>
+<p>https://api.parse.com/1/users	
+<p>https://api.parse.com/1/login?username=adm&password=123
+<p>https://api.parse.com/1/login?
+<p>
+<p>https://api.parse.com/1/users/me - "r:w9Q9KXsfmiDEKtyxoPCDlXwG5"
+<p>https://api.parse.com/1/users/me - "r:dy0YXUeiue5vaRj01rJT8NtZZ"
