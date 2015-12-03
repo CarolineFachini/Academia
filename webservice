@@ -2,22 +2,22 @@
 Segue abaixo os links das requisições da api - academia feita em aula para avaliação do bimestre.
 
 
-<p>https://api.parse.com/1/classes/treinoaluno
-<p>https://api.parse.com/1/classes/aluno
-<p>https://api.parse.com/1/classes/dieta
-<p>https://api.parse.com/1/classes/itemdieta
-<p>https://api.parse.com/1/classes/exercicio
-<p>
+https://api.parse.com/1/classes/treinoaluno
+https://api.parse.com/1/classes/aluno
+https://api.parse.com/1/classes/dieta
+https://api.parse.com/1/classes/itemdieta
+https://api.parse.com/1/classes/exercicio
 
-<p>https://api.parse.com/1/classes/itemdieta?where={"IdItemDieta": 5000}
-<p>https://api.parse.com/1/classes/treinoaluno?where={"IdTreinoAluno": 8001}
-<p>https://api.parse.com/1/classes/exercicio?where={"codexercicio": "1003"}
-<p>https://api.parse.com/1/classes/dieta?where={"IdDieta": 102}
-<p>https://api.parse.com/1/classes/aluno?where={"IdAluno": 1}
-<p>
-<p>https://api.parse.com/1/users	
-<p>https://api.parse.com/1/login?username=adm&password=123
-<p>https://api.parse.com/1/login?
-<p>
-<p>https://api.parse.com/1/users/me - "r:w9Q9KXsfmiDEKtyxoPCDlXwG5"
-<p>https://api.parse.com/1/users/me - "r:dy0YXUeiue5vaRj01rJT8NtZZ"
+
+https://api.parse.com/1/classes/itemdieta?where={"IdItemDieta": 5000}
+https://api.parse.com/1/classes/treinoaluno?where={"IdTreinoAluno": 8001}
+https://api.parse.com/1/classes/exercicio?where={"codexercicio": "1003"}
+https://api.parse.com/1/classes/dieta?where={"IdDieta": 102}
+https://api.parse.com/1/classes/aluno?where={"IdAluno": 1}
+
+https://api.parse.com/1/users	
+https://api.parse.com/1/login?username=adm&password=123
+https://api.parse.com/1/login?
+
+https://api.parse.com/1/users/me - "r:w9Q9KXsfmiDEKtyxoPCDlXwG5"
+https://api.parse.com/1/users/me - "r:dy0YXUeiue5vaRj01rJT8NtZZ"
